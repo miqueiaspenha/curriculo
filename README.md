@@ -6,15 +6,15 @@ Parque Genibaú - Fortaleza - Ceará <br/>
 Telefone: 85 988712955 <br/>
 Email: miqueiaspenha@gmail.com <br/>
 
-#### OBJETIVO
+### OBJETIVO
 
 Web Master, Programador Web, Analista de Sistemas
 
-#### FORMAÇÃO
+### FORMAÇÃO
 
 Ensino superior 8º semestre no curso de Sistema de Informação (Concluíndo)
 
-#### EXPERIÊNCIA PROFISSIONAL
+### EXPERIÊNCIA PROFISSIONAL
 
 - **2013 - Atualmente - Colégio Ari de Sá** <br/>
 **Cargo:** Webmaster <br/>
@@ -24,7 +24,7 @@ Ensino superior 8º semestre no curso de Sistema de Informação (Concluíndo)
 **Cargo:** Programador Web <br/>
 **Principais atividades:** Analise e desenvolvimento de web sites e sistemas desenvolvidos utilizando PHP/ MySql e CMS Joomla. Desenvolvimento de Softwares com Java SE,  Dot NET C#.
 
-#### QUALIFICAÇÕES E ATIVIDADES COMPLEMENTARES
+### QUALIFICAÇÕES E ATIVIDADES COMPLEMENTARES
 
 - C# ASP.NET (CEPEP, conclusão em 2012). <br/>
 Lógica de Programação e Orientação Objeto, Banco de Dados SQL Server, C#, Aplicações com Banco de Dados C# e Asp.Net.
@@ -35,7 +35,7 @@ Dreamweaver, Flash, Fireworks, Projeto de Websites.
 - Design Gráfico (S.O.S Computadores, conclusão em 2011). <br/>
 Photoshop, CorelDraw, In Design.
 
-#### INFORMAÇÕES ADICIONAIS
+### INFORMAÇÕES ADICIONAIS
 
 - **Tecnologias**: HTML 5 - Avançado, CSS 3(Bootstrap) - Avançado, PHP (Codeigniter e Laravel) - Intermediário, MySQL - Avançado, PotgreSQL - Avançado, MongoDB - Intermediário, Redis – Intermediário, Javascript (AngularJs, JQuery, Ajax, JSON) - Avançado, Orientação a Objetos - Avançado, Inglês Técnico – Intermediário,  Dot.NET C# - Intermediário, Python(Django e Flask) – Intermediário, Node.js(Express e Bower) - Intermediário.
 
